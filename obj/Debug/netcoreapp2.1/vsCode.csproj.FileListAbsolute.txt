@@ -1,0 +1,11 @@
+/home/luanb/Documents/Luan/vsCode/bin/Debug/netcoreapp2.1/vsCode.deps.json
+/home/luanb/Documents/Luan/vsCode/bin/Debug/netcoreapp2.1/vsCode.runtimeconfig.json
+/home/luanb/Documents/Luan/vsCode/bin/Debug/netcoreapp2.1/vsCode.runtimeconfig.dev.json
+/home/luanb/Documents/Luan/vsCode/bin/Debug/netcoreapp2.1/vsCode.dll
+/home/luanb/Documents/Luan/vsCode/bin/Debug/netcoreapp2.1/vsCode.pdb
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.csprojAssemblyReference.cache
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.csproj.CoreCompileInputs.cache
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.AssemblyInfoInputs.cache
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.AssemblyInfo.cs
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.dll
+/home/luanb/Documents/Luan/vsCode/obj/Debug/netcoreapp2.1/vsCode.pdb
